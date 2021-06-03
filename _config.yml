@@ -1,0 +1,3 @@
+theme: jekyll-theme-midnight
+title: CIT281 Lab 6
+description: Handle a “book” class using node.js javascript. Update code to account for an “ISBN” property and allow a method to delete books.
